@@ -43,6 +43,7 @@ title:  "Comandos de git y docker"
 | **git merge <otra-rama>**  | Fusiona el historial y los cambios de la rama indicada (`<otra-rama>`) dentro de la rama en la que estamos situados actualmente. |
 
 ## Comandos de Docker 
+
 | Comando | Descripción y funcionamiento |
 | :---- | :---- |
 | **docker run \<imagen\>** | Crea y ejecuta un contenedor a partir de una imagen (ej. docker run redis). |
